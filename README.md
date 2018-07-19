@@ -1,5 +1,9 @@
 # ABPopups
 
+[![Version](https://img.shields.io/cocoapods/v/ABPopups.svg?style=flat)](http://cocoapods.org/pods/ABPopups)
+[![License](https://img.shields.io/cocoapods/l/ABPopups.svg?style=flat)](http://cocoapods.org/pods/ABPopups)
+[![Platform](https://img.shields.io/cocoapods/p/ABPopups.svg?style=flat)](http://cocoapods.org/pods/ABPopups)
+
 One Paragraph of project description goes here
 
 ## Getting Started
