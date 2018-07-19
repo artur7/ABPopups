@@ -1,8 +1,7 @@
 # ABPopups
 
-[![Version](https://img.shields.io/cocoapods/v/ABPopups.svg?style=flat)](http://cocoapods.org/pods/ABPopups)
-[![License](https://img.shields.io/cocoapods/l/ABPopups.svg?style=flat)](http://cocoapods.org/pods/ABPopups)
-[![Platform](https://img.shields.io/cocoapods/p/ABPopups.svg?style=flat)](http://cocoapods.org/pods/ABPopups)
+[![Version](https://img.shields.io/badge/Version-0.0.1-blue.svg)](http://cocoapods.org/pods/ABPopups)
+[![Lang](https://img.shields.io/badge/Language-Swift-orange.svg)](http://cocoapods.org/pods/ABPopups)
 
 One Paragraph of project description goes here
 
